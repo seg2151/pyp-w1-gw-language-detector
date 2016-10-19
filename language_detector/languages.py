@@ -26,6 +26,31 @@ LANGUAGES = [
             'einen', 'kann', 'dem'
         ]
     },
+    {
+        'name': 'English',
+        'common_words': [
+            'the','this','so','people','back',
+            'be','but','up','into','after',
+            'to','his','out','year','use',
+            'of','by','if','your','two',
+            'and','from','about','good','how',
+            'a','they','who','some','our',
+            'in','we','get','could','work',
+            'that','say','which','them','first',
+            'have','her','go','see','well',
+            'I','she','me','other','way',
+            'it','or','when','than','even',
+            'for','an','make','then','new',
+            'not','will','can','now','want',
+            'on','my','like','look','because',
+            'with','one','time','only','any',
+            'he','all','no','come','these',
+            'as','would','just','its','give',
+            'you','there','him','over','day',
+            'do','their','know','think','most',
+            'at','what','take','also','us'
+        ]
+    }
     #  include the English language here
     # HINT: https://en.wikipedia.org/wiki/Most_common_words_in_English
 ]
